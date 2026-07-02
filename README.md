@@ -2,7 +2,7 @@
 
 # 👋 Hey Everyone, I'm Dhruvi
 
-### 💻 Welcome to My GitHub Universe!
+### 💻 Welcome to My GitHub Profile!
 
 </div>
 
