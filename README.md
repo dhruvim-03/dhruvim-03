@@ -1,88 +1,107 @@
-<div align="center">
+# Hi 👋, I'm Dhruvi Mishra
 
-# 👋 Hey Everyone, I'm Dhruvi
+### MERN Stack Developer • AI/ML Enthusiast • CSE (AI) Student
 
-### 💻 Welcome to My GitHub Profile!
+[![](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer%3B+MERN+Stack;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Deployed+Products;Always+Learning+Something+New)](https://github.com/dhruvim-03)
 
-</div>
-
-- 🌱 Building full-stack **MERN** applications that solve real problems
-- 🔭 Focused on **React.js, Node.js, Express.js & MongoDB**
-- 🤖 Exploring AI-powered products and REST API-driven systems
-- 🎓 CS (AI) undergrad at PSIT Kanpur | CGPA 8.25
-- 🤝 Open to Full Stack Developer internship opportunities
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-dhruvimishra23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvimishra23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-dhruvi--mishra-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvi-mishra-a86115288)
-[![GitHub](https://img.shields.io/badge/-dhruvim--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhruvim-03)
-
-</div>
+[![](https://img.shields.io/github/followers/dhruvim-03?style=for-the-badge&logo=github)](https://github.com/dhruvim-03) [![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)]() [![](https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge)]()
 
 ---
 
-<div align="center">
+# 💫 About Me
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvim-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvim-03&theme=tokyonight&hide_border=true" />
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence) at **Pranveer Singh Institute of Technology (PSIT), Kanpur**
 
-</div>
+💻 Full-stack developer building applications that integrate REST APIs, JWT authentication, and AI/NLP models
 
-<div align="center">
+🧠 Comfortable owning a feature end-to-end — from database schema to deployed UI
 
-### 🏆 Languages & Technologies
+🌱 Currently sharpening my skills in System Design, Data Structures & Algorithms, and AI-integrated products
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-</div>
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| **ScriptAura** | React, Node.js, Express, MongoDB, JWT | Full-stack MERN bookstore with auth, cart, orders & AI chatbot recommendations |
-| **MINUTES – AI Meeting Companion** | Node.js, Python, Whisper API, NLP | AI meeting assistant generating transcripts, summaries & action items |
-| **ReetiVerse** | Node.js, Express, MongoDB, Google Maps API | Cultural platform with location-based heritage & event discovery |
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+🎯 Looking for a **Full Stack Developer Internship** where I can build, ship, and grow
 
 ---
 
-<div align="center">
-✨ Thanks for stopping by — let's build something great together!
-</div>
+# 🚀 Tech Stack
+
+### Languages
+[![](https://skillicons.dev/icons?i=js,java,python,c,cpp)](https://skillicons.dev)
+
+### Frontend
+[![](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+
+### Backend & Databases
+[![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+
+### Tools & Platforms
+[![](https://skillicons.dev/icons?i=git,github,vercel,render)](https://skillicons.dev)
+
+---
+
+# 🌟 Featured Projects
+
+## 📚 ScriptAura
+A full-stack MERN bookstore platform with secure authentication and an AI-powered recommendation experience.
+
+### Key Features
+- 🔐 JWT-based authentication with role-based access control
+- 🛒 Shopping cart and complete order management flow
+- 🤖 AI chatbot that recommends books based on user preferences
+- 🌐 RESTful APIs for auth, catalog, cart, and order processing
+- ☁️ Deployed on Vercel (frontend) & Render (backend)
+
+**Tech Stack**
+`React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST APIs`
+
+---
+
+## 🏛️ ReetiVerse
+A digital platform celebrating Indian art, heritage, and traditions through immersive exhibitions.
+
+### Key Features
+- 🖼️ Digital exhibitions showcasing Indian art & heritage
+- 📍 Location-based discovery of festivals, monuments & heritage sites
+- 🗺️ Google Maps API integration for geospatial exploration
+
+**Tech Stack**
+`Node.js` • `Express.js` • `MongoDB` • `Google Maps API`
+
+---
+
+# 📊 GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=dhruvim-03&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03) [![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvim-03&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvim-03&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03)
+
+---
+
+# 📈 Contribution Graph
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=dhruvim-03&theme=tokyo-night&hide_border=true)](https://github.com/dhruvim-03)
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building and deploying production-ready full-stack applications
+- 🤖 Integrating AI/NLP models into real-world products
+- 📚 Practicing Data Structures & Algorithms
+- 🧩 Exploring System Design fundamentals
+- 💼 Preparing for Full Stack Developer internships
+
+---
+
+# 📫 Connect With Me
+
+[![](https://skillicons.dev/icons?i=linkedin,github)](https://github.com/dhruvim-03)
+
+[LinkedIn: dhruvi-mishra-a86115288](https://linkedin.com/in/dhruvi-mishra-a86115288) • [GitHub: dhruvim-03](https://github.com/dhruvim-03) • 📧 dhruvimishra23@gmail.com
+
+---
+
+[![](https://komarev.com/ghpvc/?username=dhruvim-03&style=for-the-badge&color=58A6FF)](https://github.com/dhruvim-03)
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
