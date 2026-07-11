@@ -1,11 +1,13 @@
+<div align="center">
+
 # Hi 👋, I'm Dhruvi Mishra
 
-### MERN Stack Developer • AI/ML Enthusiast • CSE (AI) Student
+### Full Stack Developer • AI/ML Enthusiast • CSE (AI) Student
 
 [![](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer%3B+MERN+Stack;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Deployed+Products;Always+Learning+Something+New)](https://github.com/dhruvim-03)
 
-[![](https://img.shields.io/github/followers/dhruvim-03?style=for-the-badge&logo=github)](https://github.com/dhruvim-03) [![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)]() [![](https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge)]()
-
+[![](https://img.shields.io/badge/📧-dhruvimishra23%40gmail.com-58A6FF?style=for-the-badge)](mailto:dhruvimishra23@gmail.com) [![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)]() [![](https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge)]()
+</div>
 ---
 
 # 💫 About Me
@@ -44,13 +46,10 @@
 A full-stack MERN bookstore platform with secure authentication and an AI-powered recommendation experience.
 
 ### Key Features
-- 🔐 JWT-based authentication with role-based access control
-- 🛒 Shopping cart and complete order management flow
-- 🤖 AI chatbot that recommends books based on user preferences
-- 🌐 RESTful APIs for auth, catalog, cart, and order processing
-- ☁️ Deployed on Vercel (frontend) & Render (backend)
+🔐 JWT-based authentication with role-based access control  •  🛒 Shopping cart and complete order management flow  •  🤖 AI chatbot that recommends books based on user preferences  •  🌐 RESTful APIs for auth, catalog, cart, and order processing  •  ☁️ Deployed on Vercel (frontend) & Render (backend)
 
 **Tech Stack**
+
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST APIs`
 
 ---
@@ -59,11 +58,10 @@ A full-stack MERN bookstore platform with secure authentication and an AI-powere
 A digital platform celebrating Indian art, heritage, and traditions through immersive exhibitions.
 
 ### Key Features
-- 🖼️ Digital exhibitions showcasing Indian art & heritage
-- 📍 Location-based discovery of festivals, monuments & heritage sites
-- 🗺️ Google Maps API integration for geospatial exploration
+🖼️ Digital exhibitions showcasing Indian art & heritage  •  📍 Location-based discovery of festivals, monuments & heritage sites  •  🗺️ Google Maps API integration for geospatial exploration
 
 **Tech Stack**
+
 `Node.js` • `Express.js` • `MongoDB` • `Google Maps API`
 
 ---
@@ -84,24 +82,19 @@ A digital platform celebrating Indian art, heritage, and traditions through imme
 
 # 🎯 Current Focus
 
-- 🚀 Building and deploying production-ready full-stack applications
-- 🤖 Integrating AI/NLP models into real-world products
-- 📚 Practicing Data Structures & Algorithms
-- 🧩 Exploring System Design fundamentals
-- 💼 Preparing for Full Stack Developer internships
+🚀 Building and deploying production-ready full-stack applications &nbsp;•&nbsp; 🤖 Integrating AI/NLP models into real-world products &nbsp;•&nbsp; 📚 Practicing Data Structures & Algorithms &nbsp;•&nbsp; 🧩 Exploring System Design fundamentals &nbsp;•&nbsp; 💼 Preparing for Full Stack Developer internships
 
 ---
 
 # 📫 Connect With Me
 
-[![](https://skillicons.dev/icons?i=linkedin,github)](https://github.com/dhruvim-03)
+[![](https://skillicons.dev/icons?i=linkedin,github,gmail)](https://github.com/dhruvim-03)
 
-[LinkedIn: dhruvi-mishra-a86115288](https://linkedin.com/in/dhruvi-mishra-a86115288) • [GitHub: dhruvim-03](https://github.com/dhruvim-03) • 📧 dhruvimishra23@gmail.com
+[LinkedIn: dhruvi-mishra-a86115288](https://linkedin.com/in/dhruvi-mishra-a86115288) • [GitHub: dhruvim-03](https://github.com/dhruvim-03) • [📧 dhruvimishra23@gmail.com](mailto:dhruvimishra23@gmail.com)
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=dhruvim-03&style=for-the-badge&color=58A6FF)](https://github.com/dhruvim-03)
 
 *"Code. Learn. Build. Repeat."*
 
 ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+
