@@ -66,13 +66,6 @@ A digital platform celebrating Indian art, heritage, and traditions through imme
 
 ---
 
-# 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=dhruvim-03&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03) [![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvim-03&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvim-03&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/dhruvim-03)
-
----
 
 # 📈 Contribution Graph
 
