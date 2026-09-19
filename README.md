@@ -74,43 +74,12 @@ I am a **Full Stack Developer** who builds web applications that combine REST AP
 
 ---
 
-## 🏛️ Engineering Architecture & Philosophy
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                FULL-STACK & AI SYSTEM SPECTRUM           │
-└──────────────────────────────────────────────────────────┘
-        │                     │                     │
-        ▼                     ▼                     ▼
-┌───────────────┐   ┌───────────────────┐   ┌────────────────┐
-│  FRONTEND     │   │  BACKEND          │   │  AI / DATA     │
-│ • React UI    │   │ • REST APIs       │   │ • NLP models   │
-│ • Responsive  │   │ • JWT + RBAC      │   │ • Chatbots     │
-│ • Clean State │   │ • Express/Node    │   │ • MongoDB/SQL  │
-└───────────────┘   └───────────────────┘   └────────────────┘
-        │                     │                     │
-        └─────────────────────┼─────────────────────┘
-                              ▼
-        ┌──────────────────────────────────────┐
-        │  DEPLOYED, PRODUCTION-READY SOFTWARE │
-        │      (Vercel  •  Render  •  Git)     │
-        └──────────────────────────────────────┘
-```
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Building and deploying production-ready full-stack applications
 - 🤖 Integrating AI/NLP models into real-world products
 - 📚 Practicing Data Structures & Algorithms
 - 🧩 Exploring System Design fundamentals
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvim-03&theme=tokyo-night&hide_border=true)](https://github.com/dhruvim-03)
 
 ---
 
