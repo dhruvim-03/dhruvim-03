@@ -70,7 +70,7 @@ I am a **Full Stack Developer** who builds web applications that combine REST AP
 
 ---
 
-### 📚 [ScriptAura — Full-Stack Bookstore Platform](https://github.com/dhruvim-03)
+### 📚 [ScriptAura — Full-Stack Bookstore Platform](https://github.com/dhruvim-03/ScriptAura)
 *MERN e-commerce platform with secure auth and an AI-powered recommendation experience.*
 
 - Built **JWT-based authentication** with **role-based access control** for users and admins.
