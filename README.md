@@ -97,12 +97,6 @@ I am a **Full Stack Developer** who builds web applications that combine REST AP
 - 🧩 Exploring System Design fundamentals
 
 ---
-
-<p align="center">
-
-<a href="https://github.com/dhruvim-03">
-  <img src="https://ghchart.rshah.org/58A6FF/dhruvim-03" alt="dhruvim-03's GitHub contribution heatmap" />
-</a>
 <!--
   The line above replaces the old github-readme-activity-graph.vercel.app widget,
   which is currently returning a 402 (rate-limit) error and rendering as a broken
