@@ -74,6 +74,20 @@ I am a **Full Stack Developer** who builds web applications that combine REST AP
 
 ---
 
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvim-03&theme=radical&count_private=true&hide_title=false&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=dhruvim-03&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvim-03&theme=radical&layout=compact&langs_count=6" alt="Most Used Languages" />
+</p>
+
 ## 🎯 Current Focus
 
 - 🚀 Building and deploying production-ready full-stack applications
