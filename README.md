@@ -194,3 +194,54 @@ Docker Compose · Render
 
 <br/>
 
+## 💼 Experience
+
+| | Role | Organization | Details | Duration |
+| :---: | :--- | :--- | :--- | :---: |
+| 🤝 | **Technical Community Manager** | Catalyst Crew · Internship (Remote) | Coordinating technical operations, supporting community-driven initiatives, and ensuring smooth execution of technical events, workshops and hackathons | ![](https://img.shields.io/badge/OCT%202026%20--%20PRESENT-2EA043?style=flat-square&labelColor=0D1117) |
+| 🧠 | **Machine Learning Engineering Intern** | FlyRank AI · Internship (Remote) | Completed 25 hands-on assignments covering data wrangling, embeddings and clustering, intent and opportunity modeling, and insight-to-action workflows | ![](https://img.shields.io/badge/JUN%202026%20--%20JUL%202026-58A6FF?style=flat-square&labelColor=0D1117) |
+| 🎪 | **Joint Technical Head** | Ignitia 2K26, PSIT Kanpur (On-site) | Co-led a cross-functional team of 30+ clubs, 10+ departments, streamlining technical decision-making and issue-resolution workflows for faster response times during high-pressure events | ![](https://img.shields.io/badge/DEC%202025%20--%20JUL%202026-A371F7?style=flat-square&labelColor=0D1117) |
+
+---
+## 📜 Certifications
+
+| | Certification | Issuer | Details | When |
+| :---: | :--- | :--- | :--- | :---: |
+| ☁️ | **Machine Learning Foundations** (AWS Academy Graduate) | Amazon Web Services (AWS) | Covers the end-to-end ML pipeline, model building and deployment with Amazon SageMaker | ![](https://img.shields.io/badge/OCT%202026-2EA043?style=flat-square&labelColor=0D1117) |
+| 🌐 | **Generative AI Essentials** ("AI for All" Program) | Tata Consultancy Services (TCS iON) | Generative AI fundamentals course completed under the "AI for All" program | ![](https://img.shields.io/badge/OCT%202026-2EA043?style=flat-square&labelColor=0D1117) |
+| 🤖 | **Agentic AI Associate** | Oracle | Foundations of agentic AI systems | ![](https://img.shields.io/badge/SEP%202026-F0883E?style=flat-square&labelColor=0D1117) |
+| 🧠 | **OCI Certified AI Foundations Associate** | Oracle | Foundational knowledge of AI and machine learning concepts, with a focus on applications within cloud infrastructure | ![](https://img.shields.io/badge/SEP%202026-F0883E?style=flat-square&labelColor=0D1117) |
+| 🅰️ | **Adobe Hackathon** (Certificate of Participation) | Adobe | Participated in the Adobe University Hackathon | ![](https://img.shields.io/badge/AUG%202026-DA3B3B?style=flat-square&labelColor=0D1117) |
+| 💡 | **Introduction to GenAI** | IBM | Foundational concepts of generative AI and the use of large language models in practical scenarios | ![](https://img.shields.io/badge/JUN%202026-58A6FF?style=flat-square&labelColor=0D1117) |
+| 📊 | **GenAI-Powered Data Analytics** (Job Simulation) | Forage | Virtual job simulation in AI-driven data analytics | ![](https://img.shields.io/badge/NOV%202025-A371F7?style=flat-square&labelColor=0D1117) |
+| 🛡️ | **Cybersecurity Analyst** (Job Simulation) | Forage | Virtual job simulation in cybersecurity analysis | ![](https://img.shields.io/badge/NOV%202025-A371F7?style=flat-square&labelColor=0D1117) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dhruvim-03&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+<br/><br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dhruvi-mishra-a86115288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:dhruvimishra23@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/dhruvim-03"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ Thanks for visiting! If you like my work, consider starring my repositories.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:58A6FF&height=100&section=footer" alt="footer" />
+
+</div>
