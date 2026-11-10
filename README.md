@@ -100,3 +100,48 @@ Beyond code, I've co-led technical operations across **80+ events** as Joint Tec
 </div>
 
 ---
+
+## 🚀 Featured Projects
+
+### 📡 [RiskRadar — AI-Powered Fraud Detection & Monitoring](https://github.com/dhruvim-03/RiskRadar)
+![Status](https://img.shields.io/badge/STATUS-ONGOING-58A6FF?style=for-the-badge&labelColor=0D1117)
+
+*Building every layer end to end: real-time fraud scoring, SHAP explainability, drift monitoring and a full dashboard.*
+
+- Building a **real-time scoring pipeline**: a Spring Boot backend orchestrates an internal **FastAPI + XGBoost** service and returns a fraud probability with a **LOW / MEDIUM / HIGH** risk tier.
+- Engineering **leakage-safe velocity features** from prior transactions only, trained on highly imbalanced data and evaluated on **PR-AUC**.
+- Adding **SHAP explanations** to every prediction so analysts can see exactly why a transaction was flagged.
+- Implementing a scheduled **PSI-based drift monitoring** job that flags feature drift above the 0.2 threshold.
+- Securing the platform with **JWT auth and role-based access** (Analyst / Admin), plus an admin-triggered **model retraining** workflow with version history.
+- Developing a responsive **React + TypeScript dashboard** (Tailwind, shadcn/ui, Recharts) and containerizing the full stack with **Docker Compose**.
+
+**Tech Stack:** `Spring Boot` • `FastAPI` • `XGBoost` • `SHAP` • `React` • `TypeScript` • `PostgreSQL` • `Docker`
+
+---
+### 📚 [ScriptAura — Full-Stack Bookstore Platform](https://github.com/dhruvim-03/ScriptAura)
+![Status](https://img.shields.io/badge/STATUS-COMPLETED-2EA043?style=for-the-badge&labelColor=0D1117)
+
+*MERN e-commerce platform with secure auth and an AI-powered recommendation experience.*
+
+- Built **JWT-based authentication** with **role-based access control** for users and admins.
+- Implemented a complete **shopping cart and order management** flow.
+- Integrated an **AI chatbot** that recommends books based on user preferences.
+- Designed **RESTful APIs** for auth, catalog, cart, and order processing.
+- Deployed the frontend on **Vercel** and the backend on **Render**.
+
+**Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST APIs`
+
+---
+
+### 🧭 [RouteX — Multi-LLM Query Routing System](https://github.com/dhruvim-03/RouteX--Adaptive-Multi-LLM-Query-Routing-System)
+![Status](https://img.shields.io/badge/STATUS-ONGOING-58A6FF?style=for-the-badge&labelColor=0D1117)
+
+*Adaptive middleware that picks the best answer across multiple LLMs, built as a team mini project at PSIT.*
+
+- Developing middleware that queries **GPT, Gemini and Llama in parallel**, scores each answer on **quality, latency and cost**, and returns the best one.
+- Building **provider-failure fallback** and **compound-question decomposition** so one failing model never breaks a request.
+- Creating a **React dashboard** for side-by-side model comparison and **win-rate analytics**.
+
+**Tech Stack:** `Python` • `FastAPI` • `React.js` • `PostgreSQL` • `Redis` • `Docker`
+
+---
