@@ -57,91 +57,140 @@ Beyond code, I've co-led technical operations across **80+ events** as Joint Tec
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center" valign="top">
 <h3>Languages</h3>
-
-| <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
-| :---: | :---: | :---: | :---: |
-| Java | Python | JavaScript | SQL |
-
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></td>
+</tr>
+<tr>
+<td align="center">Java</td>
+<td align="center">Python</td>
+<td align="center">JavaScript</td>
+<td align="center">SQL</td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top">
 <h3>Frontend</h3>
-
-| <img src="https://skillicons.dev/icons?i=react" /> | <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=css" /> | <img src="https://skillicons.dev/icons?i=tailwind" /> |
-| :---: | :---: | :---: | :---: |
-| React.js | HTML5 | CSS3 | Tailwind CSS |
-
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /></td>
+</tr>
+<tr>
+<td align="center">React.js</td>
+<td align="center">HTML5</td>
+<td align="center">CSS3</td>
+<td align="center">Tailwind CSS</td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top">
 <h3>Backend</h3>
-
-| <img src="https://skillicons.dev/icons?i=nodejs" /> | <img src="https://skillicons.dev/icons?i=express" /> | <img src="https://skillicons.dev/icons?i=fastapi" /> |
-| :---: | :---: | :---: |
-| Node.js | Express.js | FastAPI |
-
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40" /></td>
+</tr>
+<tr>
+<td align="center">Node.js</td>
+<td align="center">Express.js</td>
+<td align="center">FastAPI</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
 <h3>Databases</h3>
-
-| <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=postgres" /> |
-| :---: | :---: | :---: |
-| MongoDB | MySQL | PostgreSQL |
-
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" /></td>
+</tr>
+<tr>
+<td align="center">MongoDB</td>
+<td align="center">MySQL</td>
+<td align="center">PostgreSQL</td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top">
 <h3>Cloud, DevOps & Tools</h3>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></td>
+</tr>
+<tr>
+<td align="center">Git</td>
+<td align="center">GitHub</td>
+<td align="center">Docker</td>
+<td align="center">Vercel</td>
+</tr>
+</table>
+</td>
+<td align="center" valign="top">
+<h3>Core Concepts</h3>
+Data Structures & Algorithms<br/>
+Object-Oriented Programming<br/>
+Operating Systems · DBMS<br/><br/>
+<b>Also Using</b><br/>
+REST APIs · JWT Authentication<br/>
+Role-Based Access Control<br/>
+Docker Compose · Render
+</td>
+</tr>
+</table>
 
-| <img src="https://skillicons.dev/icons?i=git" /> | <img src="https://skillicons.dev/icons?i=github" /> | <img src="https://skillicons.dev/icons?i=docker" /> | <img src="https://skillicons.dev/icons?i=vercel" /> |
-| :---: | :---: | :---: | :---: |
-| Git | GitHub | Docker | Vercel |
+---
+
+---
+## 🚀 Featured Projects
+
+### 📡 [RiskRadar](https://github.com/dhruvim-03/RiskRadar)
+
+| | |
+| :--- | :--- |
+| **📝 About** | AI-powered fraud detection and monitoring: building every layer end to end, from real-time fraud scoring to SHAP explainability, drift monitoring and an analyst dashboard. |
+| **📌 Status** | ![](https://img.shields.io/badge/ONGOING-58A6FF?style=flat-square&labelColor=0D1117) |
+| **✨ Highlights** | • Spring Boot backend orchestrating a **FastAPI + XGBoost** service with **LOW / MEDIUM / HIGH** risk tiers<br/>• **Leakage-safe velocity features**, evaluated on **PR-AUC**<br/>• **SHAP explanations** on every prediction<br/>• **PSI drift monitoring** (flags drift above 0.2)<br/>• **JWT + role-based access** (Analyst / Admin) and a model retraining workflow<br/>• **React + TypeScript** dashboard, containerized with **Docker Compose** |
+| **🛠️ Tech Stack** | `Spring Boot` `FastAPI` `XGBoost` `SHAP` `React` `TypeScript` `PostgreSQL` `Docker` |
 
 <br/>
 
-**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · Operating Systems · DBMS
+### 🧭 [RouteX](https://github.com/dhruvim-03/RouteX--Adaptive-Multi-LLM-Query-Routing-System)
 
-**Backend Practices:** REST APIs · JWT Authentication · Role-Based Access Control
-
-**Also Learning:** Docker Compose · Render
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📡 [RiskRadar — AI-Powered Fraud Detection & Monitoring](https://github.com/dhruvim-03/RiskRadar)
-![Status](https://img.shields.io/badge/STATUS-ONGOING-58A6FF?style=for-the-badge&labelColor=0D1117)
-
-*Building every layer end to end: real-time fraud scoring, SHAP explainability, drift monitoring and a full dashboard.*
-
-- Building a **real-time scoring pipeline**: a Spring Boot backend orchestrates an internal **FastAPI + XGBoost** service and returns a fraud probability with a **LOW / MEDIUM / HIGH** risk tier.
-- Engineering **leakage-safe velocity features** from prior transactions only, trained on highly imbalanced data and evaluated on **PR-AUC**.
-- Adding **SHAP explanations** to every prediction so analysts can see exactly why a transaction was flagged.
-- Implementing a scheduled **PSI-based drift monitoring** job that flags feature drift above the 0.2 threshold.
-- Securing the platform with **JWT auth and role-based access** (Analyst / Admin), plus an admin-triggered **model retraining** workflow with version history.
-- Developing a responsive **React + TypeScript dashboard** (Tailwind, shadcn/ui, Recharts) and containerizing the full stack with **Docker Compose**.
-
-**Tech Stack:** `Spring Boot` • `FastAPI` • `XGBoost` • `SHAP` • `React` • `TypeScript` • `PostgreSQL` • `Docker`
-
----
-### 📚 [ScriptAura — Full-Stack Bookstore Platform](https://github.com/dhruvim-03/ScriptAura)
-![Status](https://img.shields.io/badge/STATUS-COMPLETED-2EA043?style=for-the-badge&labelColor=0D1117)
-
-*MERN e-commerce platform with secure auth and an AI-powered recommendation experience.*
-
-- Built **JWT-based authentication** with **role-based access control** for users and admins.
-- Implemented a complete **shopping cart and order management** flow.
-- Integrated an **AI chatbot** that recommends books based on user preferences.
-- Designed **RESTful APIs** for auth, catalog, cart, and order processing.
-- Deployed the frontend on **Vercel** and the backend on **Render**.
-
-**Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `REST APIs`
+| | |
+| :--- | :--- |
+| **📝 About** | Adaptive multi-LLM query routing system that picks the best answer across several models. |
+| **📌 Status** | ![](https://img.shields.io/badge/ONGOING-58A6FF?style=flat-square&labelColor=0D1117) ![](https://img.shields.io/badge/GROUP%20PROJECT-A371F7?style=flat-square&labelColor=0D1117) |
+| **👥 My Role** | Group project at PSIT. I'm building the **research agent**. |
+| **✨ Highlights** | • Queries **GPT, Gemini and Llama in parallel**<br/>• Scores answers on **quality, latency and cost**<br/>• **Provider-failure fallback** and **compound-question decomposition**<br/>• **React dashboard** for side-by-side comparison and win-rate analytics |
+| **🛠️ Tech Stack** | `Python` `FastAPI` `React.js` `PostgreSQL` `Redis` `Docker` |
 
 ---
 
-### 🧭 [RouteX — Multi-LLM Query Routing System](https://github.com/dhruvim-03/RouteX--Adaptive-Multi-LLM-Query-Routing-System)
-![Status](https://img.shields.io/badge/STATUS-ONGOING-58A6FF?style=for-the-badge&labelColor=0D1117)
+### 📚 [ScriptAura](https://github.com/dhruvim-03/ScriptAura)
 
-*Adaptive middleware that picks the best answer across multiple LLMs, built as a team mini project at PSIT.*
+| | |
+| :--- | :--- |
+| **📝 About** | Full-stack MERN bookstore platform with secure authentication and an AI-powered book recommendation experience. |
+| **📌 Status** | ![](https://img.shields.io/badge/COMPLETED-2EA043?style=flat-square&labelColor=0D1117) |
+| **✨ Highlights** | • **JWT authentication** with **role-based access** for users and admins<br/>• Complete **cart and order management** flow<br/>• **AI chatbot** that recommends books from user preferences<br/>• **RESTful APIs** for auth, catalog, cart and orders<br/>• Frontend on **Vercel**, backend on **Render** |
+| **🛠️ Tech Stack** | `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` |
 
-- Developing middleware that queries **GPT, Gemini and Llama in parallel**, scores each answer on **quality, latency and cost**, and returns the best one.
-- Building **provider-failure fallback** and **compound-question decomposition** so one failing model never breaks a request.
-- Creating a **React dashboard** for side-by-side model comparison and **win-rate analytics**.
+<br/>
 
-**Tech Stack:** `Python` • `FastAPI` • `React.js` • `PostgreSQL` • `Redis` • `Docker`
-
----
